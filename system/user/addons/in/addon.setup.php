@@ -1,7 +1,7 @@
 <?php
 
 if ( ! defined('IN_VERSION')) {
-	define('IN_VERSION', '1.4');
+    define('IN_VERSION', '1.4');
 }
 
 return [
