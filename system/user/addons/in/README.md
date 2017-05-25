@@ -1,3 +1,7 @@
+# In
+
+This add-on was originally created by Causing Effect. Its been updated to be ExpressionEngine 3 compatible. For more information on the original add-on, visit https://docs.causingeffect.com/expressionengine/in/user-guide/usage.html.
+
 ## In:clude
 Include a template like you would an embed, like this:
 
